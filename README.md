@@ -7,9 +7,9 @@ This amazing App UI is built on the amazing design of [Taras Migulko](https://dr
 - Live Demo: [From Here](https://youtu.be/xMXI55G82Fk "App Demo")  
 
 ## Design
-![orignal design](https://cdn.dribbble.com/users/1998175/screenshots/6215241/dribbble_sport.gif)
+![design](https://cdn.dribbble.com/users/1998175/screenshots/6215241/dribbble_sport.gif)
 
 ## Implementation
-![](https://github.com/AhmedAbouelkher/Sport-Activity-Flatter-App/blob/master/screenshots/App-Demo.gif)
+![implementation](https://github.com/AhmedAbouelkher/Sport-Activity-Flatter-App/blob/master/screenshots/App-Demo.gif)
 
-<img src="screenshots/screenshot_1.png" width="380"> <img src="screenshots/screenshot_2.png" width="380">
+<img src="screenshots/screenshot_1.png" width="350"> <img src="screenshots/screenshot_2.png" width="350">
